@@ -13,7 +13,7 @@ By now, 5000+ contributors have added 100 000+ products from 150 countries using
 
 * Built using Shiny by RStudio
 
-* Code available on [GitHub](https://github.com/iamchuan?tab=repositories)
+* Blog post available on [Chuan's blog](https://iamchuan.com/2017/04/16/visualization-of-open-food-facts-dataset/#more-284)
 
 ***
 
